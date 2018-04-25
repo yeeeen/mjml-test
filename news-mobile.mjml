@@ -1,0 +1,46 @@
+
+<mj-section css-class="news-mobile" background-color="#fff" padding="50px 10px 0">
+        	<mj-column>
+
+<mj-text font-family="Raleway, Helvetica, Arial, sans-serif" font-weight="600" font-size="18px" padding="0" color="#2de7df">I previously worked for...</mj-text>
+          </mj-column>
+          
+</mj-section>
+
+<mj-section css-class="news-mobile" background-color="#fff" padding="20px 10px">
+        	<mj-column border="1px solid #eee" padding="10px">
+          	<mj-image src="https://bucket.mlcdn.com/a/638/638513/images/b81d9aef27f3f64128e2e39674c36ecfb43e1bf4.png" width="163px" href=""/>
+            <mj-text font-family="Raleway, Helvetica, Arial, sans-serif" font-size="14px" font-weight="600" align="center">BitPesa, a FinTech company based in Africa</mj-text>
+            <mj-text font-family="Raleway, Helvetica, Arial, sans-serif" font-size="13px" align="center" line-height="24px">I was the main designer responsible for the new platform. I was involved every aspect of the product development process. This project is currently in its final stages and will be released soon.</mj-text>
+            
+            <mj-button font-family="Raleway, Helvetica, Arial, sans-serif" background-color="transparent" color="#6AE2DC" border-radius="0" font-weight="600" href="http://yen.jyorikei.com/bitpesafx">
+            Read more...
+          </mj-button>
+          </mj-column>
+          
+</mj-section>        
+ 
+<mj-section css-class="news-mobile" background-color="#fff" padding="20px 10px">
+          <mj-column border="1px solid #eee" padding="10px">
+          	<mj-image src="https://bucket.mlcdn.com/a/638/638513/images/60d7bae09837bd01b41a184b80c0d6cd6bebb7a3.png" width="163px"/>
+            <mj-text font-family="Raleway, Helvetica, Arial, sans-serif" font-size="14px" font-weight="600" align="center">Etsuri, a news-aggregator platform for news lovers</mj-text>
+            <mj-text font-family="Raleway, Helvetica, Arial, sans-serif" font-size="13px" align="center" line-height="24px">I was the designer responsible for its web application. Likewise, I was involed in every aspect of the product development process and also worked on the front-end development.</mj-text>
+            <mj-button font-family="Raleway, Helvetica, Arial, sans-serif" background-color="transparent" color="#6AE2DC" border-radius="0" font-weight="600" href="http://yen.jyorikei.com/etsuri">
+            Read more...
+          </mj-button>
+          </mj-column>
+          
+  </mj-section> 
+
+<mj-section css-class="news-mobile" background-color="#fff" padding="20px 10px">
+          
+          <mj-column border="1px solid #eee" padding="10px">
+          	<mj-image src="https://bucket.mlcdn.com/a/638/638513/images/9e4fd009ec32e242362661ef9d928498c5f9c399.png" width="163px"/>
+            <mj-text font-family="Raleway, Helvetica, Arial, sans-serif" font-size="14px" font-weight="600" align="center">Kalibrr, a revolutionizing hiring platform!</mj-text>
+            <mj-text font-family="Raleway, Helvetica, Arial, sans-serif" font-size="13px" align="center" line-height="24px">I worked with the Product Team to improve the Kalibrr platform. Work included ideation and brainstorming to solve problems, user research, designing prototypes with FramerJS.</mj-text>
+            <mj-button font-family="Raleway, Helvetica, Arial, sans-serif" background-color="transparent" color="#6AE2DC" border-radius="0" font-weight="600" href="http://yen.jyorikei.com/kalibrr">
+            Read more...
+          </mj-button>
+          </mj-column>
+        
+    </mj-section>    

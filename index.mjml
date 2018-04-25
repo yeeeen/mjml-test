@@ -1,0 +1,42 @@
+<mjml>
+
+  <mj-head>
+   
+    <mj-all padding="0" margin="0"></mj-all>
+    <mj-font name="Raleway" href="https://fonts.googleapis.com/css?family=Raleway:400,500,600" />
+    <mj-font name="Playfair" href="https://fonts.googleapis.com/css?family=Playfair+Display" />
+
+    <mj-style>
+
+
+      a {color:#6AE2DC; text-decoration: none} .inspiration { width: 600px;} .inspiration-header { width: 600px;} .news-item { border:1px solid #F4F5F4; padding: 30px; } .news-item a { color: #1e1d1d; text-decoration: none;} .news-item b { font-weight: 600;
+      } .news-item .item { width: 70%; padding: 0 0px} .news-item .item-left { width: 70%; padding: 0 20px;} .news-item .news-img { width: 10%; padding: 20px 20px } .footer{ width: 600px; background:#fff; padding:0;} .news-normal {display:block;} .news-mobile
+      {display:none} @media all and (max-width: 480px) { .inspiration, .inspiration-header, .footer { width: 100%; } .offset-left { display:none;} .profile-image-container { width:100%!important; margin:auto} .profile-image { width: 100%; margin:auto;}
+      .news-mobile {display: block;} .news-normal {display:none} }
+    </mj-style>
+
+    <mj-attributes>
+    </mj-attributes>
+
+  </mj-head>
+  <mj-body>
+
+    <mj-container background-color="#F4F5F4" width="600px">
+      <mj-wrapper padding-top="50px">
+        <mj-include path="./header.mjml" />
+        <mj-include path="./intro.mjml" />
+        <mj-include path="./news.mjml" />
+        <mj-include path="./news-mobile.mjml" />
+        <mj-include path="./inspire.mjml" />
+        <mj-include path="./footer.mjml" />
+
+      </mj-wrapper>
+    </mj-container>
+
+
+
+
+
+
+  </mj-body>
+</mjml>

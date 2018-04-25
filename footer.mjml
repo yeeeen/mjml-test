@@ -1,0 +1,15 @@
+<mj-section css-class="footer">
+          
+      	<mj-column>
+          <mj-divider border-width="1px" border-style="solid" border-color="#f5f5f5" padding="10px 80px" />
+        	<mj-text align="center" font-family="Raleway, Helvetica, Arial, sans-serif" font-size="13px" color="#1e1d1d" line-height="20px">
+            Thank you for taking the time to view my application, and I hope you see me as fit for the role. I really believe I'm fit for the role because I have the skills and experience you are looking for. The source code for this is available on my <a href="https://github.com/yeeeen/mjml-test">Github repo</a>.
+          </mj-text>
+          
+          <mj-text align="center">
+          	<a href="mailto:jyorikei@gmail.com"  style="padding-right:10px" title="jyorikei@gmail.com"><img src="https://bucket.mlcdn.com/a/638/638513/images/d868efc55f153ef645a1cd0201af2984e1aa469b.png" width="15px"/> jyorikei@gmail.com</a>
+            
+            <a href="skype:jyorikei?chat"><img src="https://bucket.mlcdn.com/a/638/638513/images/89111ae85604e16171e10b49af92e9d0fa0cf1dc.png" width="15px"/> Skype ID: jyorikei</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>

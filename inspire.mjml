@@ -1,0 +1,21 @@
+<mj-section padding="10px 0 0" background-color="#fff" css-class="inspiration-header">
+        <mj-column>
+          <mj-text font-family="Raleway, Helvetica, Arial, sans-serif" font-weight="600" font-size="18px" padding="20px 15px 5px 15px" color="#2de7df">What inspires me...</mj-text>
+          
+          <mj-text font-family="Raleway, Helvetica, Arial, sans-serif" font-weight="400" font-size="13px" padding="5px 15px 5px 15px" line-height="24px">These are the sites and blogs that keep me inspired in my design career. I learn a lot from these sites and I always try to apply what I've learned here in my daily work.</mj-text>
+        </mj-column>
+        </mj-section>
+        <mj-section padding="10px" background-color="#fff" css-class="inspiration">
+         
+        	<mj-column>
+          	<mj-image src="https://bucket.mlcdn.com/a/638/638513/images/419fcf2bd1a4087ee362213600a45c26185bfac1.png" width="176px" padding="0" href="https://www.designbetter.co/principles-of-product-design"></mj-image>
+          </mj-column>
+          
+          <mj-column>
+          <mj-image src="https://bucket.mlcdn.com/a/638/638513/images/519db746d8823525764d2fef76a0457f4ea599d3.png" width="176px" padding="0" href="https://uxdesign.cc/product-design/home"></mj-image>
+          </mj-column>
+          
+          <mj-column>
+          	<mj-image src="https://bucket.mlcdn.com/a/638/638513/images/74d3ef0867caa21784f238d188e86ce5e9f2f70e.png" width="176px" padding="0" href="https://www.ted.com/talks/stefan_sagmeister_shares_happy_design?referrer=playlist-design_giants#t-70397"></mj-image>
+          </mj-column>
+        </mj-section>

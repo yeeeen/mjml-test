@@ -1,0 +1,25 @@
+<mj-section padding="0 5px" background-color="#fff">
+        	
+            	
+          <mj-column width="50%" css-class="profile-image-container"
+                     background-color="#fff" vertical-align="top">
+            	<mj-image src="https://bucket.mlcdn.com/a/638/638513/images/4f84128b712216e830ffc77fa875fa8187da87d0.png" width="264px" align="center"  padding-top="20px" css-class="profile-image"></mj-image>
+          
+            <mj-include path="./intro-social.mjml"></mj-include>
+            
+          </mj-column>
+          <mj-column width="50%" background-color="#fff" vertical-align="top" padding-left="0">
+          	<mj-text font-family="Raleway, Helvetica, Arial, sans-serif" font-weight="600" font-size="18px" padding="20px 10px 15px 10px" color="#2de7df">Why Me? Why MailerLite?</mj-text>
+            
+            <mj-text font-family="Raleway, Helvetica, Arial, sans-serif" font-size="13px" line-height="24px" padding="0px 25px 5px 10px" align="justify">
+            	I have an extensive skills and experience in web design and now focuses on UI/UX. I am a pro in Adobe CC programs and as well in front-end design (<i>HTML/CSS)</i>. In addition, I also have experience in other areas of design such as branding and print, making me an all-around designer.
+            </mj-text>
+            
+            
+            <mj-text font-family="Raleway, Helvetica, Arial, sans-serif" font-size="13px" line-height="24px" padding="0px 25px 5px 10px" align="justify">
+            	I've always wanted to join MailerLite because you have an awesome team to begin with. Also, the Designer role allows me to be flexible and can work on projects other than UI/UX, which would give me the opportunity to learn new skills and improve the ones I already got. 
+            </mj-text>
+            
+          </mj-column>
+          
+        </mj-section>

@@ -1,0 +1,61 @@
+<mj-section padding="0px" css-class="news-normal">
+        	
+          <mj-column width="600px" background-color="#fff" padding="30px 20px 0">
+          <mj-text font-family="Raleway, Helvetica, Arial, sans-serif" font-weight="600" font-size="18px" padding="20px 10px 25px 0px" color="#2de7df">I previously worked for...</mj-text>
+            
+            <mj-table padding="0" font-family="Raleway, Helvetica, Arial, sans-serif" font-size="13px">
+            	<tr class="news-item">
+              	<td class="item-left">
+                  <p style="font-weight:600">BitPesa, a FinTech company based in Africa</p>
+                <p>I was the main designer responsible for the new platform. I was involved every aspect of the product development process. This project is currently in its final stages and will be released soon.</p>
+
+<p>NDA Work. Password is yen2018</p>
+                  
+<p><a href="http://yen.jyorikei.com/bitpesafx" style="background:transparent;color:#6AE2DC;font-family:Raleway, Helvetica, Arial, sans-serif;font-size:13px;font-weight:600;line-height:120%;Margin:0;text-decoration:none;text-transform:none;" target="_blank">
+              Read more...
+                  </a></p>
+                  
+                </td>
+                <td class="news-img"><img src="https://bucket.mlcdn.com/a/638/638513/images/b81d9aef27f3f64128e2e39674c36ecfb43e1bf4.png"></img></td>
+              </tr>
+
+            </mj-table>
+            
+            <mj-spacer height="20px"></mj-spacer>
+            
+            <mj-table padding="0" font-family="Raleway, Helvetica, Arial, sans-serif" font-size="13px">
+            	<tr class="news-item">
+                <td class="news-img"><img src="https://bucket.mlcdn.com/a/638/638513/images/60d7bae09837bd01b41a184b80c0d6cd6bebb7a3.png"></img></td>
+                
+              	<td class="item">
+                  <p style="font-weight:600">Etsuri, a news-aggregator platform for news lovers</p>
+                    <p>I was the designer responsible for its web application. Likewise, I was involed in every aspect of the product development process and also worked on the front-end development.</p>
+                  
+                  <p><a href="http://yen.jyorikei.com/etsuri" style="background:transparent;color:#6AE2DC;font-family:Raleway, Helvetica, Arial, sans-serif;font-size:13px;font-weight:600;line-height:120%;Margin:0;text-decoration:none;text-transform:none;" target="_blank">
+              Read more...
+                  </a></p>
+                </td>
+            
+              </tr>
+
+            </mj-table>
+            <mj-spacer height="20px"></mj-spacer>
+            <mj-table padding="0" font-family="Raleway, Helvetica, Arial, sans-serif" font-size="13px">
+            	<tr class="news-item">
+              	<td class="item-left">
+                  <p style="font-weight:600">Kalibrr, a revolutionizing hiring platform in the Philippines!</p>
+                    <p>I worked with the Product Team to improve the Kalibrr platform. Work included ideation and brainstorming to solve problems, user research, designing prototypes with FramerJS.</p>
+                  <p><a href="http://yen.jyorikei.com/kalibrr" style="background:transparent;color:#6AE2DC;font-family:Raleway, Helvetica, Arial, sans-serif;font-size:13px;font-weight:600;line-height:120%;Margin:0;text-decoration:none;text-transform:none;" target="_blank">
+              Read more...
+                  </a></p>
+                </td>
+                <td class="news-img"><img src="https://bucket.mlcdn.com/a/638/638513/images/9e4fd009ec32e242362661ef9d928498c5f9c399.png"></img></td>
+              </tr>
+
+            </mj-table>
+            
+            <mj-spacer height="20px"></mj-spacer>
+            
+          </mj-column>
+         
+        </mj-section>

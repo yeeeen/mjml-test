@@ -1,0 +1,10 @@
+<mj-section padding="0">
+
+  <mj-column width="600px" background-color="#fff">
+    <mj-image src="https://bucket.mlcdn.com/a/638/638513/images/7d10ad93ee863f13a78a2b29dac3f98dbacbe9a0.png" width="50px" padding-top="30px"></mj-image>
+    <mj-text align="center" font-family="Raleway, Helvetica, Arial, sans-serif" line-height="20px">
+      Hello! I'm Yen, a Digital Designer based out of Germany with experience in UI/UX, Web, Graphic Design. I like to design simple yet effective interfaces to give the best experience.
+    </mj-text>
+    <mj-divider border-width="1px" border-style="solid" border-color="#f5f5f5" padding="10px 80px" />
+  </mj-column>
+</mj-section>
