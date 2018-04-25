@@ -1,1 +1,3 @@
-# mjml-test
+# newsletter
+
+Created using MJML.
