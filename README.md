@@ -1,3 +1,3 @@
-# newsletter
+# Newsletter
 
-Created using MJML.
+Created using MJML with a modular approach.
